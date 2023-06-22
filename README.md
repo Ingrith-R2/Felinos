@@ -8,7 +8,12 @@ Tigre
 felinos: en esta de pide el nombre del felino, nombre cientifico y habitad. Con respecto a las otrax clases de 
 especies se pide caracteristicas, tamño,habitos,numero de subespecie,peso y porcentaje de perdida de su habitad.
 
-A continuacion se mostrara capturas de la ejecucion
+Diagrama:  
+
+
+
+A continuacion se mostrara capturas de la ejecucion:
+
 ![image](https://github.com/Ingrith-R2/Felinos/assets/117744029/e2e40c28-7e0a-4ad0-88c0-238f09ba320f)
 ![image](https://github.com/Ingrith-R2/Felinos/assets/117744029/85d0e9a8-fe3a-4067-9985-4499b53b0872)
 ![image](https://github.com/Ingrith-R2/Felinos/assets/117744029/da415daf-9b9a-4eb6-a5d5-d0b718fdf31c)
