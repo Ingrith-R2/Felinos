@@ -9,6 +9,8 @@ felinos: en esta de pide el nombre del felino, nombre cientifico y habitad. Con 
 especies se pide caracteristicas, tamño,habitos,numero de subespecie,peso y porcentaje de perdida de su habitad.
 
 Diagrama:  
+![image](https://github.com/Ingrith-R2/Felinos/assets/117744029/a493d2c2-6cf1-4b96-93c9-8ce10130a06e)
+
 
 
 
